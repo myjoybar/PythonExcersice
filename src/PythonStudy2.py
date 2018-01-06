@@ -12,7 +12,7 @@ print(name)
 print("=====================String（字符串）=====================")
 a = 111
 print(isinstance(a, int))
-
+from bs4 import BeautifulSoup
 
 # String（字符串）
 str = 'Runoob'
