@@ -13,7 +13,10 @@ def getMetaInfo(url,html):
     soup = BeautifulSoup(html,'html.parser')
     #print('soup' + soup.prettify())
     # print('soup' + soup.head.string)
-    description = soup.find(attrs={"name": "description"})['content'].strip()
+    if url.endswith('a/') or url.endswith('b/') or url.endswith('c/') or url.endswith('d/') or url.endswith('e/'):
+        description = soup.find(attrs={"name": "description"})['content'].strip()
+    if url.endswith('f/') or url.endswith('g/') or url.endswith('h/') or url.endswith('i/') or url.endswith('j/'):
+        description = soup.find(attrs={"property": "og:description"})['content'].strip()
     #print('description=' + description)
     title = soup.find(attrs={"property": "og:title"})['content'].strip()
     # print('title=' + title)
