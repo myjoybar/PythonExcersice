@@ -59,14 +59,20 @@ headers = {
 
 
 # f = open("./doc/TalkUUrl.txt")
-f = open("urls.txt")
+# f = open("urls.txt")
+# f = open("./doc/app.txt")
+# f = open("./doc/talkU_and.txt")
+f = open("./doc/Dingtone-ios.txt")
+
 line = f.readline()
 amount = 0
 amountSuccess = 0
 amountFailure = 0
 while line:
     line = f.readline()
-    if "http://talkyou.me/" in line:
+    print(line)
+    # if "http://talkyou.me/" in line:
+    if "http://dingtone.me/" in line:
         urlInfo = "URL" + str(amount) + ":" + line.strip()
         amount = amount + 1;
         try:
