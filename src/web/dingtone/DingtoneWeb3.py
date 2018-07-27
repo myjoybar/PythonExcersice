@@ -63,6 +63,8 @@ headers = {
 # f = open("./doc/app.txt")
 # f = open("./doc/talkU_and.txt")
 f = open("./doc/Dingtone-ios.txt")
+#f = open("./doc/Dingtone-ap1.txt")
+# f = open("./doc/talkU_ap1.txt")
 
 line = f.readline()
 amount = 0
@@ -71,12 +73,12 @@ amountFailure = 0
 while line:
     line = f.readline()
     print(line)
-    # if "http://talkyou.me/" in line:
+    #if "http://talkyou.me/" in line:
     if "http://dingtone.me/" in line:
         urlInfo = "URL" + str(amount) + ":" + line.strip()
         amount = amount + 1;
         try:
-            response = requests.get(line.strip(), headers=headers, timeout=5)
+            response = requests.get(line.strip(), headers=headers, timeout=20)
             httpCode = response.status_code
             html = response.text
             if httpCode == 200:
