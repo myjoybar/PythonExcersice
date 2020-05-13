@@ -1,0 +1,22 @@
+^^^^^^^^^^Jan 11 2019^^^16:50:16^^^^^^^^^^[29619,29619][2019-05-16 +0800 18:29:23]
+get mmap time: 24
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 387a3ed
+MARS_BUILD_TIME: 2019-01-11 16:50:08
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:13478064128 free:746663936 available:746663936
+log dir space info, capacity:13478064128 free:746663936 available:746663936
+[I][2019-05-16 +8.0 18:29:23.359][29619, 1*][IGLogService][, , 0][main_init log path: /storage/emulated/0/igmaster/log
+[I][2019-05-16 +8.0 18:29:25.039][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 10
+[I][2019-05-16 +8.0 18:29:26.464][29619, 1*][IGLibConfigManger][, , 0][main_app is Background to Foreground
+[I][2019-05-16 +8.0 18:29:34.877][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 5
+[I][2019-05-16 +8.0 18:29:37.789][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 5
+[I][2019-05-16 +8.0 18:29:41.826][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 10
+[I][2019-05-16 +8.0 18:29:42.116][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 15
+[I][2019-05-16 +8.0 18:29:43.262][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 15
+[I][2019-05-16 +8.0 18:29:43.388][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 15
+[I][2019-05-16 +8.0 18:29:45.550][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 10
+[I][2019-05-16 +8.0 18:29:46.486][29619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 15
+$$$$$$$$$$Jan 11 2019$$$16:50:16$$$$$$$$$$[29619,29619][2019-05-16 +0800 18:30:05]

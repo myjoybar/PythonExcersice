@@ -1,0 +1,12 @@
+^^^^^^^^^^Jun  4 2019^^^09:50:23^^^^^^^^^^[24828,24828][2019-06-04 +0800 09:53:46]
+get mmap time: 8
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 387a3ed
+MARS_BUILD_TIME: 2019-06-04 09:50:20
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:13478064128 free:2167869440 available:2167869440
+log dir space info, capacity:13478064128 free:2167869440 available:2167869440
+[D][2019-06-04 +8.0 09:53:48.319][MainActivity][main_at:me.dingtone.xlog.MainActivity$1.run(MainActivity.java:22)I am log msg 
+$$$$$$$$$$Jun  4 2019$$$09:50:23$$$$$$$$$$[24828,24828][2019-06-04 +0800 09:54:51]

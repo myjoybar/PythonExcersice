@@ -1,0 +1,23 @@
+^^^^^^^^^^Jan 11 2019^^^16:50:16^^^^^^^^^^[14619,14619][2019-05-10 +0800 15:19:18]
+get mmap time: 11
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 387a3ed
+MARS_BUILD_TIME: 2019-01-11 16:50:08
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:13478064128 free:966782976 available:966782976
+log dir space info, capacity:13478064128 free:966782976 available:966782976
+[I][2019-05-10 +8.0 15:19:18.835][14619, 1*][IGLogService][, , 0][main_init log path: /storage/emulated/0/igmaster/log
+[I][2019-05-10 +8.0 15:19:19.046][14619, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 5
+[D][2019-05-10 +8.0 15:19:19.143][14619, 1*][IGTrackerAspect][, , 0][main_eventName=ActivityEnter
+[D][2019-05-10 +8.0 15:19:19.143][14619, 1*][IGTrackerAspect][, , 0][main_bundle to map key=item_name,value=LoginGuideActivity
+[I][2019-05-10 +8.0 15:19:19.438][14619, 1*][IGLibConfigManger][, , 0][main_app is Background to Foreground
+[D][2019-05-10 +8.0 15:19:24.954][14619, 62542][IGTrackerAspect][, , 0][Thread-390222_attribute: af_message = organic install
+[D][2019-05-10 +8.0 15:19:24.954][14619, 62542][IGTrackerAspect][, , 0][Thread-390222_attribute: af_status = Organic
+[D][2019-05-10 +8.0 15:19:24.954][14619, 62542][IGTrackerAspect][, , 0][Thread-390222_attribute: is_first_launch = false
+[D][2019-05-10 +8.0 15:19:24.957][14619, 62542][IGTrackerAspect][, , 0][Thread-390222_eventName=appflyinfo
+[D][2019-05-10 +8.0 15:19:24.957][14619, 62542][IGTrackerAspect][, , 0][Thread-390222_bundle to map key=is_first_launch,value=false
+[D][2019-05-10 +8.0 15:19:24.957][14619, 62542][IGTrackerAspect][, , 0][Thread-390222_bundle to map key=af_status,value=Organic
+[D][2019-05-10 +8.0 15:19:24.958][14619, 62542][IGTrackerAspect][, , 0][Thread-390222_bundle to map key=af_message,value=organic install
+$$$$$$$$$$Jan 11 2019$$$16:50:16$$$$$$$$$$[14619,14619][2019-05-10 +0800 15:19:26]

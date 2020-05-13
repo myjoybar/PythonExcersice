@@ -1,0 +1,16 @@
+^^^^^^^^^^Jan 11 2019^^^16:50:16^^^^^^^^^^[27668,27668][2019-05-09 +0800 14:46:43]
+get mmap time: 13
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 387a3ed
+MARS_BUILD_TIME: 2019-01-11 16:50:08
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:13478064128 free:1011044352 available:1011044352
+log dir space info, capacity:13478064128 free:1011044352 available:1011044352
+[I][2019-05-09 +8.0 14:46:43.160][27668, 1*][IGLogService][, , 0][main_init log path: /storage/emulated/0/igmaster/log
+[I][2019-05-09 +8.0 14:46:44.324][27668, 1*][IGLibConfigManger][, , 0][main_onTrimMemory level = 10
+[D][2019-05-09 +8.0 14:46:44.758][27668, 1*][IGTrackerAspect][, , 0][main_eventName=ActivityEnter
+[D][2019-05-09 +8.0 14:46:46.329][27668, 1*][IGTrackerAspect][, , 0][main_bundle to map key=item_name,value=LoginGuideActivity
+[I][2019-05-09 +8.0 14:46:46.863][27668, 1*][IGLibConfigManger][, , 0][main_app is Background to Foreground
+$$$$$$$$$$Jan 11 2019$$$16:50:16$$$$$$$$$$[27668,27668][2019-05-09 +0800 14:46:47]
